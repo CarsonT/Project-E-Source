@@ -1,0 +1,189 @@
+[ACCOUNT]
+character-username = Zyklon B
+character-password = kanker
+
+[CHARACTER]
+character-height = 0
+Join-Date = 7 23 2013
+character-posx = 3087
+character-posy = 3504
+character-rights = 0
+connected-from = 24.132.126.168
+AchievementPoints = 1
+KillingPoints = 0
+KC = 0
+DC = 0
+KillStreak = 0
+character-yellTag = Editable Rank
+ClanName = None
+ClanId = -1
+ChatId = -1
+HasAClan = false
+tempid=0
+tempamt=0
+tempprice=0
+crystal-bow-shots = 0
+gotStarter = 1
+skull-timer = 0
+prayr-book = 0
+PRAYFUCK = false
+magic-book = 0
+brother-info = 0	0
+brother-info = 1	0
+brother-info = 2	0
+brother-info = 3	0
+brother-info = 4	0
+brother-info = 5	0
+special-amount = 10.0
+selected-coffin = 0
+barrows-killcount = 0
+teleblock-length = 0
+pc-points = 0
+SoFpoints = 0
+votePoints = 0
+slayerTask = 78
+taskAmount = 23
+magePoints = 0
+donatorPoints = 0
+Frost-KC =0
+bhenter = 0
+bhleave = 0
+bhpickup = 0
+bhcash = 0
+bhcrater = 0
+bhrogue = 0
+bhtarget = 0
+character-longsword = 3000
+Forinthry-brace = 500
+Forinthry-brace2 = 500
+Forinthry-brace3 = 500
+Forinthry-brace4 = 500
+clickedHome = 0
+Homex = 3073
+Homey = 3504
+Forinthry-brace5 = 500
+character-warhammer = 3000
+character-spear = 3000
+character-chainbody = 3000
+character-chainskirt = 3000
+character-full helm = 3000
+character-platebody = 3000
+character-platelegs = 3000
+character-hood = 3000
+character-staff = 3000
+character-robe top = 3000
+character-robe bottom = 3000
+character-cLong = 3000
+character-cShield = 3000
+character-cStaff = 3000
+character-cBow = 3000
+character-cMaul = 3000
+character-cRapier = 3000
+gwdelay = 0
+Arma-KC = 0
+Band-KC = 0
+Zammy-KC = 0
+Sara-KC = 0
+Monster-Points = 0
+character-leather body = 3000
+character-chaps = 3000
+autoRet = 0
+barrowskillcount = 0
+flagged = true
+wave = 0
+gwkc = 0
+fightMode = 2
+void = 0	0	0	0	0
+tradeTimer = 0
+memberStatus = 0
+firstMember = 1
+isDonator = 0
+NoMoreInterface = false
+Easy = 1
+Medium = 0
+Hard = 0
+Insane = 0
+Impossible = 0
+
+[ACHIEVEMENTS]
+GettingReward = false
+LotteryEnter = false
+LotteryDone = false
+TutorialStart = false
+TutorialDone = false
+EarnedRareItem = false
+
+[EQUIPMENT]
+character-equip = 0	-1	1	
+character-equip = 1	-1	1	
+character-equip = 2	-1	1	
+character-equip = 3	-1	0	
+character-equip = 4	-1	1	
+character-equip = 5	-1	1	
+character-equip = 6	-1	0	
+character-equip = 7	-1	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	1	
+character-equip = 10	-1	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	1	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	3
+character-look = 2	18
+character-look = 3	26
+character-look = 4	33
+character-look = 5	36
+character-look = 6	42
+character-look = 7	10
+character-look = 8	0
+character-look = 9	0
+character-look = 10	2
+character-look = 11	0
+character-look = 12	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	10	1300
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	7499888
+character-item = 1	758	1
+character-item = 2	6768	1
+character-item = 3	1049	1
+character-item = 4	1039	1
+character-item = 5	1045	1
+character-item = 6	1056	1
+character-item = 7	1324	1
+
+[BANK]
+
+[FRIENDS]
+
+[EOF]
+

@@ -1,0 +1,196 @@
+[ACCOUNT]
+character-username = M U K Z
+character-password = arsenalfc1
+
+[CHARACTER]
+character-height = 0
+Join-Date = 7 21 2013
+character-posx = 3094
+character-posy = 3491
+character-rights = 0
+connected-from = 86.28.162.173
+AchievementPoints = 0
+KillingPoints = 0
+KC = 0
+DC = 0
+KillStreak = 0
+character-yellTag = Editable Rank
+ClanName = pker
+ClanId = 5
+ChatId = 5
+HasAClan = true
+tempid=0
+tempamt=0
+tempprice=0
+crystal-bow-shots = 0
+gotStarter = 1
+skull-timer = 0
+prayr-book = 0
+PRAYFUCK = false
+magic-book = 0
+brother-info = 0	0
+brother-info = 1	0
+brother-info = 2	0
+brother-info = 3	0
+brother-info = 4	0
+brother-info = 5	0
+special-amount = 10.0
+selected-coffin = 0
+barrows-killcount = 0
+teleblock-length = 0
+pc-points = 0
+SoFpoints = 0
+votePoints = 0
+slayerTask = 78
+taskAmount = 29
+magePoints = 0
+donatorPoints = 0
+Frost-KC =0
+bhenter = 0
+bhleave = 0
+bhpickup = 0
+bhcash = 0
+bhcrater = 0
+bhrogue = 0
+bhtarget = 0
+character-longsword = 3000
+Forinthry-brace = 500
+Forinthry-brace2 = 500
+Forinthry-brace3 = 500
+Forinthry-brace4 = 500
+clickedHome = 0
+Homex = 3073
+Homey = 3504
+Forinthry-brace5 = 500
+character-warhammer = 3000
+character-spear = 3000
+character-chainbody = 3000
+character-chainskirt = 3000
+character-full helm = 3000
+character-platebody = 3000
+character-platelegs = 3000
+character-hood = 3000
+character-staff = 3000
+character-robe top = 3000
+character-robe bottom = 3000
+character-cLong = 3000
+character-cShield = 3000
+character-cStaff = 3000
+character-cBow = 3000
+character-cMaul = 3000
+character-cRapier = 3000
+gwdelay = 0
+Arma-KC = 0
+Band-KC = 0
+Zammy-KC = 0
+Sara-KC = 0
+Monster-Points = 0
+character-leather body = 3000
+character-chaps = 3000
+autoRet = 1
+barrowskillcount = 0
+flagged = true
+wave = 0
+gwkc = 0
+fightMode = 2
+void = 0	0	0	0	0
+tradeTimer = 0
+memberStatus = 0
+firstMember = 1
+isDonator = 0
+NoMoreInterface = false
+Easy = 0
+Medium = 0
+Hard = 0
+Insane = 1
+Impossible = 0
+
+[ACHIEVEMENTS]
+GettingReward = false
+LotteryEnter = false
+LotteryDone = false
+TutorialStart = true
+TutorialDone = true
+EarnedRareItem = false
+
+[EQUIPMENT]
+character-equip = 0	-1	1	
+character-equip = 1	10499	1	
+character-equip = 2	1704	1	
+character-equip = 3	861	1	
+character-equip = 4	1129	1	
+character-equip = 5	-1	1	
+character-equip = 6	-1	0	
+character-equip = 7	2493	1	
+character-equip = 8	-1	0	
+character-equip = 9	2487	1	
+character-equip = 10	3105	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	1	
+character-equip = 13	884	4	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	18
+character-look = 3	26
+character-look = 4	33
+character-look = 5	36
+character-look = 6	42
+character-look = 7	10
+character-look = 8	8
+character-look = 9	0
+character-look = 10	0
+character-look = 11	0
+character-look = 12	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	38	32900
+character-skill = 4	50	107600
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	70	744000
+character-skill = 17	99	13232000
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	2445	1
+character-item = 1	7947	1
+character-item = 2	7947	1
+character-item = 3	7947	1
+character-item = 4	996	450000
+
+[BANK]
+character-bank = 0	2496	1
+character-bank = 1	2498	1
+character-bank = 2	2490	1
+character-bank = 3	2492	1
+character-bank = 4	869	5
+character-bank = 5	996	7324804
+character-bank = 6	2445	99
+character-bank = 7	2435	50
+character-bank = 8	2441	50
+character-bank = 9	7947	344
+
+[FRIENDS]
+
+[EOF]
+
